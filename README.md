@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Beela303
+- 👋 Hi, I’m Beela
 - 👀 I’m interested in Web development, art & music
-- 🌱 I’m currently learning django
+- 🌱 I’m a frontend web developer currently learning backend
 - 💞️ I’m looking to collaborate on Web applications
 - 📫 How to reach me: devbeela@gmail.com
 
