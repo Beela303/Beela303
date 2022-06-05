@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Beela
 - 👀 I’m interested in Web development, art & music
 - 🌱 I’m a frontend web developer currently learning backend
-- 💞️ I’m looking to collaborate on Web applications
+- 💞️ I’m looking to collaborate on Web apps and open source
 - 📫 How to reach me: devbeela@gmail.com
 
 <!---
