@@ -6,7 +6,6 @@ Web developer
 
 I'm a frontend web developer skilled in HTML, CSS, JavaScript, jQuery & Bootstrap. I also know Python. I'm currently learning Sass to advance my Frontend skills and Django for backend web development to become a full stack developer.
 
-* ✉️  You can contact me at [devbeela@gmail.com](mailto:devbeela@gmail.com)
 * 🧠  I'm learning Django & Sass
 * 🤝  I'm open to collaborating on Frontend Web development & Python projects
 
