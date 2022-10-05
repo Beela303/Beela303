@@ -8,7 +8,7 @@ I'm a frontend web developer skilled in HTML, CSS, JavaScript, jQuery & Bootstra
 
 * ✉️  You can contact me at [devbeela@gmail.com](mailto:devbeela@gmail.com)
 * 🧠  I'm learning Django & Sass/Scss
-* 🤝  I'm open to collaborating on Frontend Web development projects & Python projects
+* 🤝  I'm open to collaborating on Frontend Web development & Python projects
 
 ### Skills
 
