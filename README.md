@@ -6,7 +6,7 @@ Web developer
 
 I'm a frontend web developer skilled in HTML, CSS, JavaScript, jQuery & Bootstrap. I also know Python. I'm currently learning Sass to advance my Frontend skills, Django for backend development and beeware for app development to become a full stack developer.
 
-* 🧠  I'm learning Django & Sass
+* 🧠  I'm learning Django, Sass & Beeware
 * 🤝  I'm open to collaborating on Frontend Web development & Python projects
 
 ### Skills
