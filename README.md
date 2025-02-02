@@ -1,12 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Beela
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nabila
 =============================================================================================================================
 
 Web developer
 -------------
 
-I'm a frontend web developer skilled in HTML, CSS, JavaScript, jQuery & Bootstrap. I also know Python. I'm currently learning Sass to advance my Frontend skills, Django for backend development and beeware for app development to become a full stack developer.
+I'm a frontend web developer skilled in HTML, CSS, SASS, Bootstrap, JavaScript, jQuery & Python.
 
-* 🧠  I'm learning Django, Sass & Beeware
+* 🧠  I'm learning Vue.js & Django.
 * 🤝  I'm open to collaborating on Frontend Web development & Python projects
 
 ### Skills
