@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer
 -------------
 
-I'm a frontend web developer skilled in HTML, CSS, SASS, Bootstrap, JavaScript, jQuery, Vue, Python & Vue.
+I'm a frontend web developer skilled in HTML, CSS, SASS, Bootstrap, JavaScript, jQuery, Vue, Python & Django.
 
 * 🧠  I'm practicing my web skills more
 * 🤝  I'm open to collaborating on Web development & Python projects
