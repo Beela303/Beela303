@@ -7,7 +7,7 @@ Full-stack Web Developer
 I've been coding for about 4 years now and currently doing more projects to hone my skills.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My Website (I'm updating it soon with my recent projects)](http://beela303.github.io/QueenBeela/Portfolio)
+* 🖥️  See my portfolio at [https://beela303-dev.vercel.app/](http://beela303-dev.vercel.app/)
 * ✉️  You can contact me at [nabilaabubakar333@gmail.com](mailto:nabilaabubakar333@gmail.com)
 * 🤝  I'm open to collaborating on Web Development Projects
 
