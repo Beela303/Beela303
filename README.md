@@ -1,15 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nabila Abubakar
-=======================================================================================================================================
+=============================================================================================================
 
-Full-stack Web Developer
+Software Developer
 ------------------------
-
-I've been coding for about 4 years now and currently doing more projects to hone my skills.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [https://beela303-dev.vercel.app/](http://beela303-dev.vercel.app/)
 * ✉️  You can contact me at [nabilaabubakar333@gmail.com](mailto:nabilaabubakar333@gmail.com)
-* 🤝  I'm open to collaborating on Web Development Projects
+* 🤝  I'm open to collaborating on Web and App Development Projects
 
 ### Skills
 
